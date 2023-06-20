@@ -14,4 +14,7 @@ The SQL file includes a variety of queries that cover different aspects of the e
 * Calculating statistical measures (median, mode)
 * Working with aggregate functions (COUNT, SUM, AVG)
 * Some intermediate-level questions
+
 Feel free to explore the SQL file and modify the queries as per your requirements.
+# Contribution
+Contributions to this project are welcome. If you have any suggestions, improvements, or additional queries, feel free to open an issue or submit a pull request.
